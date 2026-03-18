@@ -15,7 +15,7 @@ Desktop  Documents  Downloads  Music  Pictures
 
 **Después:**
 ```
- Desktop    Documents    Downloads    Music    Pictures
+📁 Desktop   📁 Documents   📁 Downloads   🎵 Music   🖼️ Pictures
 ```
 
 ---
